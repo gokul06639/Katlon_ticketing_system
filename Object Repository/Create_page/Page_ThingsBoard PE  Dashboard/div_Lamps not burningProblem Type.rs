@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Lamps not burningProblem Type</name>
+   <tag></tag>
+   <elementGuidId>492475bc-1d12-4869-bdd3-85d34d5f677b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/ng-component/form/div[2]/div[4]/mat-form-field[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c175-378</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bce75a34-8fe2-448b-bd01-65a32df435f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c175-378</value>
+      <webElementGuid>20b4fa0d-8c5d-42d1-8ccc-6cf6b729bc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lamps not burningProblem Type</value>
+      <webElementGuid>d93360b6-4ea5-4cd2-a7e5-3dacf547ea91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-1&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;mat-dialog-content&quot;]/div[4]/mat-form-field[@class=&quot;mat-form-field mat-block ng-tns-c175-378 mat-primary ng-star-inserted mat-form-field-type-mat-select mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-should-float ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c175-378&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c175-378&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c175-378&quot;]</value>
+      <webElementGuid>b45090ad-11d6-4a4b-bdff-953829bdb4b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/ng-component/form/div[2]/div[4]/mat-form-field[2]/div/div/div</value>
+      <webElementGuid>04fd570e-55d3-4aa6-8756-43a339eb618c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[1]/following::div[7]</value>
+      <webElementGuid>99624147-61f0-4978-b421-5479f375b722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium'])[1]/following::div[9]</value>
+      <webElementGuid>72218fb5-3fb9-4233-824c-99a10bcdf539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/mat-form-field[2]/div/div/div</value>
+      <webElementGuid>3d22b79b-e6ce-4b46-90ff-c16232415cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Lamps not burningProblem Type' or . = 'Lamps not burningProblem Type')]</value>
+      <webElementGuid>5e6dbd44-e106-46b2-b8f6-c8895fcf5d01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

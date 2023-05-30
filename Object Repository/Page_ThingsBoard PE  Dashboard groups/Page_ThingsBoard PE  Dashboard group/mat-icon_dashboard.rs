@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_dashboard</name>
+   <tag></tag>
+   <elementGuidId>f367b315-b209-407a-8754-946decca872b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='O&amp;M main Dashboard Live'])[1]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>ec7173bb-0509-4392-863d-5fd4972efd19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c5219d7f-40ce-4800-8f6f-b9677cf0505e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>2c50c2d5-f369-4c58-adfb-1520fc6305e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ca728efe-f6c1-4577-9750-38a2ace12ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>12fcac18-6df3-4fea-9d62-aecd89623bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> dashboard</value>
+      <webElementGuid>e553ab9e-469a-4dc4-9765-41860dda9e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;tb-default&quot;]/tb-root[1]/tb-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[1]/div[@class=&quot;tb-main-content&quot;]/tb-group-entities-table[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container tb-absolute-fill&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/tb-entities-table[1]/mat-drawer-container[@class=&quot;mat-drawer-container tb-absolute-fill&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;mat-padding tb-entity-table tb-absolute-fill&quot;]/div[@class=&quot;mat-elevation-z1 tb-entity-table-content&quot;]/div[@class=&quot;table-container&quot;]/table[@class=&quot;mat-table cdk-table mat-sort&quot;]/tbody[1]/mat-row[@class=&quot;mat-row cdk-row mat-row-select ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-actions mat-column-actions ng-star-inserted mat-table-sticky mat-table-sticky-border-elem-right&quot;]/div[1]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>6d12c92e-af6c-4cba-8f30-00604b91abc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O&amp;M main Dashboard Live'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>7480cd6f-af96-4a76-abd2-babb653e7aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[2]/following::mat-icon[1]</value>
+      <webElementGuid>8397e673-c6a7-4bec-b775-2226c1a0ef6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Debugger'])[1]/preceding::mat-icon[4]</value>
+      <webElementGuid>2d295be1-4a98-4fb9-9471-4f04227c3882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O&amp;M main Dashboard Live (w/o map)'])[1]/preceding::mat-icon[8]</value>
+      <webElementGuid>2ed4f20f-80cc-4bab-ad6b-0a268b758a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[4]/div/button/span/mat-icon</value>
+      <webElementGuid>ff153ce0-4881-42fb-83ce-9bb203ab4ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = ' dashboard' or . = ' dashboard')]</value>
+      <webElementGuid>06d06abd-ec3c-43a7-aefb-058fa432fb31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

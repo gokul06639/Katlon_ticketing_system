@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Status_mat-select-placeholder mat-sele_18e6ae</name>
+   <tag></tag>
+   <elementGuidId>d8445c3b-3130-4061-a631-ef600aec7ca6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-89']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-placeholder.mat-select-min-line.ng-tns-c256-325.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>54019c34-ee8e-4eb2-97eb-74f8df90b4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-placeholder mat-select-min-line ng-tns-c256-325 ng-star-inserted</value>
+      <webElementGuid>33260711-90e0-47df-8bc0-1b58dbb3241d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-89&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c256-325 ng-star-inserted&quot;]</value>
+      <webElementGuid>d040901e-5d51-4ad7-a61a-0c2b76db6906</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-89']/span</value>
+      <webElementGuid>e44488b1-0be0-43fa-87c1-e5c948ea49e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[3]</value>
+      <webElementGuid>9ad9a7d4-197a-4a58-9035-7a6a8b59ab32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[2]/following::span[4]</value>
+      <webElementGuid>8c657134-2d39-4512-b2e2-fbea882b019e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignee'])[2]/preceding::span[1]</value>
+      <webElementGuid>91e573c7-4f74-4341-9842-359da1342350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officials'])[1]/preceding::span[3]</value>
+      <webElementGuid>eb8e7b1c-1ac8-4745-8022-1f020e04b7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/mat-form-field[2]/div/div/div/mat-select/div/div/span</value>
+      <webElementGuid>ff1b9f74-8f0d-4217-b4eb-9aa46edb775d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

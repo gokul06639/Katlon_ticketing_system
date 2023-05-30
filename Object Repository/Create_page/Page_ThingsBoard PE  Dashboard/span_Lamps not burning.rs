@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lamps not burning</name>
+   <tag></tag>
+   <elementGuidId>a7858b7d-a2c7-4760-961d-62938990d68c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Lamps not burning ' or . = 'Lamps not burning ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-193']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-193 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d3d861c-2b22-4ed6-9dc1-baaf963910a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>c6bea3fc-e577-4dbe-a107-2c884c3caa3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lamps not burning </value>
+      <webElementGuid>ca9efdbe-3b79-4590-be6b-3e7deb5e2bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-193&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>5e9dfdb1-3d8e-45a3-9710-d06491576964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-193']/span</value>
+      <webElementGuid>13ac59c2-57d5-4275-b5c2-9fb7d0dc8f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day time burning'])[1]/following::span[1]</value>
+      <webElementGuid>6604b063-3fb1-4fd7-bd14-d62d183d2bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flickering'])[2]/following::span[2]</value>
+      <webElementGuid>01b17c29-1caa-4e5c-b164-e5ea9857192a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timing issue'])[1]/preceding::span[1]</value>
+      <webElementGuid>bd5470b0-73c5-4a68-9e83-a44a31382907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MCB trip'])[2]/preceding::span[2]</value>
+      <webElementGuid>707cbfbc-a4de-4389-bf57-c94bb808597b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[4]/span</value>
+      <webElementGuid>048d78d3-a71a-4620-a21c-cfc0b05ba6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lamps not burning ' or . = 'Lamps not burning ')]</value>
+      <webElementGuid>0f6425e8-d307-462c-bc4d-832f2ef15920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

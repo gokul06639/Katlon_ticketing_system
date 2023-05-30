@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Assignee_mat-select-placeholder mat-se_6688cf</name>
+   <tag></tag>
+   <elementGuidId>0f65395c-77a7-4c64-bfdc-42c2eb26c0bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-select-value-91']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-select-placeholder.mat-select-min-line.ng-tns-c256-327.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e489e04-beac-4173-9fac-85a1818f93bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-select-placeholder mat-select-min-line ng-tns-c256-327 ng-star-inserted</value>
+      <webElementGuid>e1df769a-3571-4942-b1c5-08575ef6eae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-select-value-91&quot;)/span[@class=&quot;mat-select-placeholder mat-select-min-line ng-tns-c256-327 ng-star-inserted&quot;]</value>
+      <webElementGuid>c4b180ea-df3d-43e9-9553-10f9f9602437</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-select-value-91']/span</value>
+      <webElementGuid>dfab2d2f-4901-451e-a53b-bacd9e2a962b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignee'])[2]/following::span[2]</value>
+      <webElementGuid>b19c60a8-0a10-49ef-96be-56f7794d28d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[6]</value>
+      <webElementGuid>b834b160-8cc6-4451-ad51-68740e0fd6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complainer'])[1]/preceding::span[1]</value>
+      <webElementGuid>fda214aa-440e-4903-a902-1aa6cdc5282f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complainer Phone Number'])[1]/preceding::span[4]</value>
+      <webElementGuid>9784d6e4-2b9c-4820-b748-8ffe51898009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/mat-form-field/div/div/div/mat-select/div/div/span</value>
+      <webElementGuid>d2e89dce-c290-4357-b67a-b01c27cba671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

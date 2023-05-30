@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_dashboard</name>
+   <tag></tag>
+   <elementGuidId>5d6c5b3a-b2a7-4c5b-86c4-3066ea90b072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='O&amp;M main Dashboard Live'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-tooltip-trigger.mat-icon-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a5dc963-a58a-439b-9471-a098787eb441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mattooltipposition</name>
+      <type>Main</type>
+      <value>above</value>
+      <webElementGuid>bc6f7bb0-1b55-4445-ba48-f6617c3224cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>4d36c245-dfca-480a-8dd3-448668796931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-37</value>
+      <webElementGuid>453b197d-29ba-45b5-aea9-cb78fb30be84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> dashboard</value>
+      <webElementGuid>20c6e678-91a2-4216-b922-b000a38ee82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;tb-default&quot;]/tb-root[1]/tb-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[1]/div[@class=&quot;tb-main-content&quot;]/tb-group-entities-table[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container tb-absolute-fill&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/tb-entities-table[1]/mat-drawer-container[@class=&quot;mat-drawer-container tb-absolute-fill&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content&quot;]/div[@class=&quot;mat-padding tb-entity-table tb-absolute-fill&quot;]/div[@class=&quot;mat-elevation-z1 tb-entity-table-content&quot;]/div[@class=&quot;table-container&quot;]/table[@class=&quot;mat-table cdk-table mat-sort&quot;]/tbody[1]/mat-row[@class=&quot;mat-row cdk-row mat-row-select ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-actions mat-column-actions ng-star-inserted mat-table-sticky mat-table-sticky-border-elem-right&quot;]/div[1]/button[@class=&quot;mat-focus-indicator mat-tooltip-trigger mat-icon-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>a038bc57-21f5-4c46-98c2-3943d34a5e69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O&amp;M main Dashboard Live'])[1]/following::button[1]</value>
+      <webElementGuid>df9d4651-092e-49c5-b35f-52e8f9364345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[2]/following::button[1]</value>
+      <webElementGuid>604fc9c2-7d53-4a9c-9d3f-ed0f5bc19fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Debugger'])[1]/preceding::button[4]</value>
+      <webElementGuid>ba9efff0-e417-4a36-8b72-731cf463fa33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O&amp;M main Dashboard Live (w/o map)'])[1]/preceding::button[8]</value>
+      <webElementGuid>3e76afcc-dd2a-4aac-b43b-b66af0738bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[4]/div/button</value>
+      <webElementGuid>c5d0d1c0-1e2d-4144-9c13-aa432290d050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' dashboard' or . = ' dashboard')]</value>
+      <webElementGuid>511a1eb6-bdcd-47d2-bee2-594bfc8726a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

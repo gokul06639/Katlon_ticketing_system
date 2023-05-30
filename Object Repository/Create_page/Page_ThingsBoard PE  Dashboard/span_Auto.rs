@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Auto</name>
+   <tag></tag>
+   <elementGuidId>6ceaa4d7-48d9-41cd-b39f-87f5152f597b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-154']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-154 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f6124ab8-aa00-45b5-bafc-36d7f1a92201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>59799948-fc64-4b75-92fa-2f26236855bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Auto</value>
+      <webElementGuid>cdea5ef8-fa83-4249-8f1d-022150c4fdc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-154&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>daba11d1-920c-4fa4-b31f-ebab57829395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-154']/span</value>
+      <webElementGuid>7127055e-5c43-40b5-bf36-69289e535f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V-Team'])[1]/following::span[1]</value>
+      <webElementGuid>b0cb63d6-0474-4ade-9111-9f1ba1a5d596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officials'])[1]/following::span[2]</value>
+      <webElementGuid>4f61283c-b8ae-4141-9e4c-e4074a8068f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage dashboard states'])[1]/preceding::span[1]</value>
+      <webElementGuid>fd899271-f1fa-49fb-991e-4cb3d0ca4593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage layouts'])[1]/preceding::span[1]</value>
+      <webElementGuid>6d34d86f-1106-4f6a-bce5-9889906f5e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[6]/span</value>
+      <webElementGuid>24704d45-3754-456e-95ea-10fc71e0dac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Auto' or . = ' Auto')]</value>
+      <webElementGuid>866dc09b-8a7f-4eea-b2b0-58d7322a4b07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SLM1-1</name>
+   <tag></tag>
+   <elementGuidId>1fc17662-14da-492b-a371-9c19311569b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='69c606b0-77a8-11ed-a1d5-c72869dcd693']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2c72bc7-3659-46ac-b545-d7b0cd4965ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>b0afef44-1e0b-4faa-b0b9-9a1d4dc3f64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SLM1-1</value>
+      <webElementGuid>451221c0-92c3-47a6-8ba6-2d08f2fd22e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;69c606b0-77a8-11ed-a1d5-c72869dcd693&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>18ae8c04-348c-47ed-ad64-1c4a2639d748</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='69c606b0-77a8-11ed-a1d5-c72869dcd693']/span</value>
+      <webElementGuid>91fe7e8b-7665-4b8c-87e7-2f8c0050a656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[3]</value>
+      <webElementGuid>0387901d-a96f-4cc1-9bee-0b921b5d75e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid UUID string: null'])[1]/following::span[4]</value>
+      <webElementGuid>dfce3005-4a9a-42d0-9fee-183e6761ed73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage dashboard states'])[1]/preceding::span[1]</value>
+      <webElementGuid>e22784b1-89b0-4540-b126-5082eb515bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage layouts'])[1]/preceding::span[1]</value>
+      <webElementGuid>3142c603-c154-464a-812c-56c6e21135e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option/span</value>
+      <webElementGuid>fb153078-308c-49cc-b0ac-dc356fde6efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' SLM1-1' or . = ' SLM1-1')]</value>
+      <webElementGuid>6c064762-48ed-44f7-a4e9-f9ec0f62e6f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

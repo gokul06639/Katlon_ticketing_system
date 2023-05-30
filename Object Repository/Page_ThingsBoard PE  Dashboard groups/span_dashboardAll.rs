@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_dashboardAll</name>
+   <tag></tag>
+   <elementGuidId>8615176d-3d13-44f4-b77b-17efe2e7ea56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='docs-menu-entity-group.dashboard-groups']/li/tb-menu-link/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-focus-indicator.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5db6235-adf0-4e7d-8511-dc192656ac2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>2d57dee0-1f89-4cda-bc1e-d4a3bd6769a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>dashboardAll</value>
+      <webElementGuid>ea062b17-830c-493c-95a4-f044340d2ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;docs-menu-entity-group.dashboard-groups&quot;)/li[@class=&quot;ng-star-inserted&quot;]/tb-menu-link[1]/a[@class=&quot;mat-focus-indicator mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>b2bed729-be1e-43b1-83ad-943412dde8d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='docs-menu-entity-group.dashboard-groups']/li/tb-menu-link/a/span</value>
+      <webElementGuid>1a45cc61-495a-47d4-a69d-9d1483024620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard groups'])[1]/following::span[4]</value>
+      <webElementGuid>25fbdaaf-72df-4832-9072-c9199cd7516e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Widgets Library'])[1]/following::span[8]</value>
+      <webElementGuid>6ea32099-47af-49b6-89ce-e0f09a8b97fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[1]/preceding::span[4]</value>
+      <webElementGuid>19312e2d-b58b-4ca0-aad1-69e9d128c9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[17]/tb-menu-toggle/ul/li/tb-menu-link/a/span</value>
+      <webElementGuid>3688176d-b20e-4bc1-8dcd-ee484eeca9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'dashboardAll' or . = 'dashboardAll')]</value>
+      <webElementGuid>c8ba745c-4c4d-453c-b50c-a9ce77af5934</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
