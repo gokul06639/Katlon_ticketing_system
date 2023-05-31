@@ -41,29 +41,29 @@ WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Dashboard/but
 
 WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Dashboard/mat-icon_add'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/div_Entity Type'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard groups/Page_ThingsBoard PE  Dashboard group/Page_ThingsBoard PE  Dashboard/span_gw'))
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/div_Problem Type'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/span_Day time burning'))
 
 WebUI.click(findTestObject('Create_page/Page_ThingsBoard PE  Dashboard/div_Ward No'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Create_page/Page_ThingsBoard PE  Dashboard/span_SLM1-1'))
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/div_Complainer'))
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/span_Councillor'))
 
@@ -82,9 +82,9 @@ WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/div_Assignee'), Failu
 
 WebUI.delay(2)
 
-//WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/span_DindigulTiruchendur'))
-
 WebUI.setText(findTestObject('Page_ThingsBoard PE  Dashboard/textarea_Created On_remarks'), 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.')
+
+WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Dashboard/button_Create'))
 
