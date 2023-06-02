@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>808b804a-96df-4329-8f9f-cdc493af08c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc4c70fe-0576-480c-9ae7-975955215e34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>111ae772-3863-4774-83e8-6ba4263e907f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'gokul.m@sl2.qa.iotpro'</defaultValue>
+      <description></description>
+      <id>dc4c70fe-0576-480c-9ae7-975955215e34</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'gokul@1999'</defaultValue>
+      <description></description>
+      <id>111ae772-3863-4774-83e8-6ba4263e907f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
 </TestCaseEntity>

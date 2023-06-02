@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>Ticket_status_count</name>
+   <tag></tag>
+   <locator>//tbody/tr/td[@class='ticket-status']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+   <properties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Xpath</name>
+      <type>Main</type>
+      <value>//tbody/tr/td[@class='ticket-status']</value>
+      <webElementGuid>a3a1038f-796c-4fe3-bd5f-07b0d7dde09d</webElementGuid>
+   </properties>
+</WindowsElementEntity>

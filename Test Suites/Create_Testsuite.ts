@@ -17,6 +17,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Creation_TS/TS001-Create_Ticket</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc4c70fe-0576-480c-9ae7-975955215e34</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>111ae772-3863-4774-83e8-6ba4263e907f</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>13cbd888-d040-4f8c-8a66-31e11135c664</guid>
@@ -24,5 +36,36 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Creation_TS/TS_002 -Create_Ticket_field_validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aaa4fd75-924e-4067-a3d2-2bc42d13d4ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dd42f658-bca7-4a2a-ae4d-865c34dd966b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>75695641-bd3b-4a7e-ab09-1934e4677905</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Creation_TS/TS_003 Verify Create ticket default values</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b460d3c-2d29-4d37-b7d9-f841a217564b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b5610667-a718-4055-aa3c-0e5c889eff3a</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

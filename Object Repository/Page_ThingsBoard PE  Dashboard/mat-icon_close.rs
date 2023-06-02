@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_close</name>
+   <tag></tag>
+   <elementGuidId>3ad2e606-87a6-4ced-ab35-95448d2cf283</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/ng-component/form/mat-toolbar/button/span/mat-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>9178f7ba-9c5a-4073-97bc-0d8756629b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3ca67a25-ca9c-43c9-8048-3a7a24a4e2dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>23d0a274-76d3-4ba6-987b-dc22f346cbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>229acbb9-e4a2-4fd7-9f68-981edbe7534e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>0b8c1a8f-1dd0-4f3f-b8d9-dd7c840f3879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>close </value>
+      <webElementGuid>fcfee83a-eb91-422d-9300-ec09d0c8daf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/mat-toolbar[@class=&quot;mat-toolbar mat-primary mat-toolbar-single-row&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>29c980d5-a0cb-44b7-a45c-39b8a6f07a1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/ng-component/form/mat-toolbar/button/span/mat-icon</value>
+      <webElementGuid>e59917a3-bc6f-4395-b53b-b8b1e90f75eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SmartLights-Ticketing system'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>a7f71ae5-94da-4ea4-b24a-232c3e8318f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit'])[10]/following::mat-icon[4]</value>
+      <webElementGuid>a63f022b-2eee-436e-a0c9-b238f9844258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[2]/preceding::mat-icon[1]</value>
+      <webElementGuid>624954c2-75c2-4af4-ab12-db3a719bb6d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[2]/preceding::mat-icon[1]</value>
+      <webElementGuid>c0a12b3f-8af6-426d-b66c-a004fe35103e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/mat-toolbar/button/span/mat-icon</value>
+      <webElementGuid>c90382e5-fe7f-4fa1-82ad-47a617db1c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'close ' or . = 'close ')]</value>
+      <webElementGuid>1acdc2b9-0f05-49ee-95fd-3a8f11cb639c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

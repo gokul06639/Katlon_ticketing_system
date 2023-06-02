@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_003 Verify Create ticket default values</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38df63ef-db80-44bc-ba56-d3a978a853d3</testCaseGuid>
+   <variable>
+      <defaultValue>'gokul.m@sl2.qa.iotpro'</defaultValue>
+      <description></description>
+      <id>2b460d3c-2d29-4d37-b7d9-f841a217564b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'gokul@1999'</defaultValue>
+      <description></description>
+      <id>b5610667-a718-4055-aa3c-0e5c889eff3a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

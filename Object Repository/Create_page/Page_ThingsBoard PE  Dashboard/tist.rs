@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tist</name>
+   <tag></tag>
+   <elementGuidId>777bbf98-9cf8-428e-aae2-b640b3359535</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//tbody/tr/td[@class='ticket-status']</value>
+      <webElementGuid>6c9524bd-e43f-462c-b630-a413a8cd9f28</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

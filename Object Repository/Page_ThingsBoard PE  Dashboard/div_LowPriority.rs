@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LowPriority</name>
+   <tag></tag>
+   <elementGuidId>26c3b610-3865-4d25-90c1-518a63bd606a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/ng-component/form/div[2]/div[4]/mat-form-field/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c175-244</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffba941f-fa69-4e10-9635-803b1040ca81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c175-244</value>
+      <webElementGuid>daf33ad1-1965-4b5e-93b8-64b8133f9f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LowPriority *</value>
+      <webElementGuid>e54949a1-5c7f-4c1d-9b47-463789ce00c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-dialog-content&quot;]/div[4]/mat-form-field[@class=&quot;mat-form-field mat-block ng-tns-c175-244 mat-primary ng-star-inserted mat-form-field-type-mat-select mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-valid mat-form-field-should-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c175-244&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c175-244&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c175-244&quot;]</value>
+      <webElementGuid>a83721bd-e649-4880-b065-c355d91c7287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/ng-component/form/div[2]/div[4]/mat-form-field/div/div/div</value>
+      <webElementGuid>c4b72ba8-f891-4315-9ce0-7d243630df27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[8]</value>
+      <webElementGuid>033bd440-add4-4299-bbfb-1c3010a76900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ward No'])[1]/following::div[15]</value>
+      <webElementGuid>67dbc6ea-09a2-419a-b223-604a301829ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/mat-form-field/div/div/div</value>
+      <webElementGuid>844a3d32-44d4-4393-9e79-5c5b659b7dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LowPriority *' or . = 'LowPriority *')]</value>
+      <webElementGuid>f4296cce-5898-4f26-9da8-2031212def15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

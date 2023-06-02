@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OpenStatus</name>
+   <tag></tag>
+   <elementGuidId>252d22b5-ccd0-43f7-b184-4b83b42e9c6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/ng-component/form/div[2]/div[5]/mat-form-field/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c175-248</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25ee2c7e-83a9-40b0-bab4-fc72eed4ea8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c175-248</value>
+      <webElementGuid>e47910aa-a113-43b1-bbe5-91eda192bd25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OpenStatus *</value>
+      <webElementGuid>74e69bf1-db0f-4f79-bcf4-1a98f6ddbc18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/ng-component[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-dialog-content&quot;]/div[5]/mat-form-field[@class=&quot;mat-form-field mat-block ng-tns-c175-248 mat-primary ng-star-inserted mat-form-field-type-mat-select mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-valid mat-form-field-should-float&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c175-248&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c175-248&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c175-248&quot;]</value>
+      <webElementGuid>b613302a-6683-4f52-a927-d2e77395204c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/ng-component/form/div[2]/div[5]/mat-form-field/div/div/div</value>
+      <webElementGuid>589f644a-fda2-4cf0-a5ef-8dc23ff32064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Problem Type'])[2]/following::div[8]</value>
+      <webElementGuid>dd94aff8-46e8-45e1-9f06-efc0a52f27b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Priority'])[2]/following::div[19]</value>
+      <webElementGuid>3520cd43-7e81-4f10-9b3d-42b1c9946393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/mat-form-field/div/div/div</value>
+      <webElementGuid>154e507c-a64b-41ad-8d13-5839a640be80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OpenStatus *' or . = 'OpenStatus *')]</value>
+      <webElementGuid>b57c8f53-0f76-44e4-9bdc-5101f88ae75b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -23,10 +23,9 @@ WebUI.navigateToUrl('http://iotpro.io:8077/login')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_username-input'), 'gokul.m@sl2.qa.iotpro')
+WebUI.setText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_username-input'), Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_password-input'), 
-    '44KZjXygOFJC1THQA8242A==')
+WebUI.setText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_password-input'), Password)
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_password-input'), Keys.chord(
         Keys.ENTER))
@@ -82,7 +81,7 @@ WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/div_Assignee'), Failu
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('Page_ThingsBoard PE  Dashboard/textarea_Created On_remarks'), 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.')
+WebUI.setText(findTestObject('Page_ThingsBoard PE  Dashboard/textarea_Created On_remarks'), 'This is created on automation purpose')
 
 WebUI.takeFullPageScreenshot()
 

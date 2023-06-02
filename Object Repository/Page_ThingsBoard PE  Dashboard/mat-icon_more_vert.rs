@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_more_vert</name>
+   <tag></tag>
+   <elementGuidId>5a96f412-7aad-4d90-8f6a-63c757f048c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant administrator'])[1]/following::mat-icon[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.mat-button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>7ff4da26-9d28-494e-bfc5-c13fb77fd142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b9f7b9e8-8df1-4801-8c37-144cebfb320b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>9e5b7f0a-aea1-4559-b401-5fae9f8d4539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>efd8e18a-1bf8-495e-871f-ff13b59b2aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>ae0aa117-8c70-49da-8fff-d25b3a41d8ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_vert</value>
+      <webElementGuid>d781e1e1-b8f8-4586-abb2-c32b183b7c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;tb-default&quot;]/tb-root[1]/tb-home[@class=&quot;ng-star-inserted&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content&quot;]/div[1]/mat-toolbar[@class=&quot;mat-toolbar mat-elevation-z1 tb-primary-toolbar mat-primary mat-toolbar-single-row&quot;]/tb-user-menu[1]/section[1]/button[@class=&quot;mat-focus-indicator mat-menu-trigger mat-button mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>4db42658-235b-4f74-bc1b-8931a7355489</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant administrator'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>76e4ad15-8dc6-4b88-b60b-00500ca2a414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gokul QA'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>672076c3-e015-415c-b1e1-9c201a11ccae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyboard Shortcuts:'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>7234ee79-c5ad-4582-ac4c-c9e9e82b973a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>53bde983-3234-420e-877a-24468fb254f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
+      <webElementGuid>22f3a512-f3a5-4f0c-9596-3772291b654a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/button/span/mat-icon</value>
+      <webElementGuid>90c0e1d8-83cf-4ded-afe5-3b9e55e5e7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'more_vert' or . = 'more_vert')]</value>
+      <webElementGuid>73c16e11-cde6-4a12-b794-14c71ac14b8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

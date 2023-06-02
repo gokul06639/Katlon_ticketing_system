@@ -17,42 +17,57 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'Open the browser'
 WebUI.openBrowser('')
 
+'Navigate to the IOTPRO URL'
 WebUI.navigateToUrl('http://iotpro.io:8077/login')
 
+'Maximize the window'
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_username-input'), 'gokul.m@sl2.qa.iotpro')
+'Enter the vaild username'
+WebUI.setText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_username-input'), Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_password-input'), 
-    '44KZjXygOFJC1THQA8242A==')
+'Enter the vaild password'
+WebUI.setText(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_password-input'), Password)
 
+'Select the Login button'
 WebUI.sendKeys(findTestObject('Object Repository/Page_ThingsBoard PE  Login/input_Username (email)_password-input'), Keys.chord(
         Keys.ENTER))
 
+'Select the dashboard groups'
 WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Home/span_Dashboard groups'))
 
+'Select the Production development'
 WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Dashboard group/mat-icon_dashboard'))
 
+'Select the Open button in O&M main Dashboard Live'
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard groups/Page_ThingsBoard PE  Dashboard group/button_dashboard'))
 
+'Click on Tickets button in O&M main Dashboard Live'
 WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Dashboard/button_Tickets'))
 
+'Select the "+" icon'
 WebUI.click(findTestObject('Object Repository/Page_ThingsBoard PE  Dashboard/mat-icon_add'))
 
 WebUI.delay(2)
 
-WebUI.verifyElementVisible(findTestObject('Page_ThingsBoard PE  Dashboard/div_Entity Type'))
+'Verify the Customer name'
+WebUI.verifyElementText(findTestObject('Page_ThingsBoard PE  Dashboard/select_Salem'), 'Salem')
 
-WebUI.verifyElementVisible(findTestObject('Page_ThingsBoard PE  Dashboard/div_Problem Type'))
+'Verify the status'
+WebUI.verifyTextPresent('Open', false, FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.verifyElementText(findTestObject('Page_ThingsBoard PE  Dashboard/select_Salem'), 'Salem')
 
-WebUI.verifyElementVisible(findTestObject('Create_page/Page_ThingsBoard PE  Dashboard/div_Ward No'))
+WebUI.takeScreenshot()
 
-WebUI.verifyElementVisible(findTestObject('Page_ThingsBoard PE  Dashboard/div_Complainer'))
+WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/mat-icon_close'))
 
-WebUI.verifyElementPresent(findTestObject('Page_ThingsBoard PE  Dashboard/input_Ward No_get_location'), 0)
+WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/mat-icon_more_vert'))
 
-WebUI.verifyElementPresent(findTestObject('Page_ThingsBoard PE  Dashboard/div_Assignee'), 0)
+WebUI.click(findTestObject('Page_ThingsBoard PE  Home/button_exit_to_appLogout'))
+
+WebUI.closeBrowser()
 
