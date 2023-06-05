@@ -5,6 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>38df63ef-db80-44bc-ba56-d3a978a853d3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b460d3c-2d29-4d37-b7d9-f841a217564b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5610667-a718-4055-aa3c-0e5c889eff3a</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'gokul.m@sl2.qa.iotpro'</defaultValue>
       <description></description>

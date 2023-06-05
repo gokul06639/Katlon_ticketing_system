@@ -59,8 +59,10 @@ WebUI.verifyElementText(findTestObject('Page_ThingsBoard PE  Dashboard/select_Sa
 'Verify the status'
 WebUI.verifyTextPresent('Open', false, FailureHandling.CONTINUE_ON_FAILURE)
 
+'Verify the Salam Customer text'
 WebUI.verifyElementText(findTestObject('Page_ThingsBoard PE  Dashboard/select_Salem'), 'Salem')
 
+'Take a Screenshot in create page'
 WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/mat-icon_close'))
@@ -70,4 +72,6 @@ WebUI.click(findTestObject('Page_ThingsBoard PE  Dashboard/mat-icon_more_vert'))
 WebUI.click(findTestObject('Page_ThingsBoard PE  Home/button_exit_to_appLogout'))
 
 WebUI.closeBrowser()
+
+WebUI.acceptAlert()
 
