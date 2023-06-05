@@ -15,7 +15,7 @@
       <guid>85672756-6bd2-4af8-ad8d-b036337b2842</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Creation_TS/TS001-Create_Ticket</testCaseId>
+      <testCaseId>Test Cases/Ticket Summary widget/Ticket_Creation_TS/TS001-Create_Ticket</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>13cbd888-d040-4f8c-8a66-31e11135c664</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Creation_TS/TS_002 -Create_Ticket_field_validation</testCaseId>
+      <testCaseId>Test Cases/Ticket Summary widget/Ticket_Creation_TS/TS_002 -Create_Ticket_field_validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -53,7 +53,7 @@
       <guid>75695641-bd3b-4a7e-ab09-1934e4677905</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Creation_TS/TS_003 Verify Create ticket default values</testCaseId>
+      <testCaseId>Test Cases/Ticket Summary widget/Ticket_Creation_TS/TS_003 Verify Create ticket default values</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
